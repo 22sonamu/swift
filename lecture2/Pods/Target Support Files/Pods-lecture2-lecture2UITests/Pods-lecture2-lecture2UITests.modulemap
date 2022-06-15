@@ -1,0 +1,6 @@
+framework module Pods_lecture2_lecture2UITests {
+  umbrella header "Pods-lecture2-lecture2UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
